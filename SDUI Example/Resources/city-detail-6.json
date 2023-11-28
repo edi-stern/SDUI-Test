@@ -1,0 +1,24 @@
+{
+    "pageTitle": "Bucharest",
+    "backgroundColor" : "#DCC7AA",
+    "components": [
+        {
+            "type": "featuredImage",
+            "data": {
+                "imageUrl": "https://images.unsplash.com/photo-1600610513320-664e2c35ba67?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "type": "textRow",
+            "data": {
+                "text": "Bucharest, the vibrant capital of Romania, offers a mix of historical charm and modern city life. Known for its impressive architecture and rich cultural heritage, it's a must-visit destination in Eastern Europe."
+            }
+        },
+        {
+            "type": "ratingRow",
+            "data": {
+                "rating": 4
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pageTitle": "City Detail 2",
+    "components": [
+        {
+            "type": "featuredImage",
+            "data": {
+                "imageUrl": "https://images.unsplash.com/photo-1540051135388-3b70f6e0abc3?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        },
+        {
+            "type": "textRow",
+            "data": {
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            }
+        },
+        {
+            "type": "ratingRow",
+            "data": {
+                "rating": 4
+            }
+        }
+    ]
+}
